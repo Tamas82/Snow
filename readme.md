@@ -1,0 +1,1 @@
+My second file while learning git fundamentals. Every project should be contain such a file.
